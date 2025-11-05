@@ -1,0 +1,5 @@
+{
+  "name": "AI Email Campaign Generator & Chat",
+  "description": "A tool that generates complete email marketing campaigns (subject, body, visuals) from a prompt, and includes a helpful chatbot for any question.",
+  "requestFramePermissions": []
+}
